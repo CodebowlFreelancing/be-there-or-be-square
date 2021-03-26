@@ -1,0 +1,7 @@
+type Test {
+  description: String!
+}
+
+type Query {
+  entries: [Test]
+}
