@@ -1,6 +1,0 @@
-query Tests {
-  entries {
-    _id
-    description
-  }
-}
